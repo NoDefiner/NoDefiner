@@ -9,22 +9,19 @@ In Roman numerals 1990 is rendered: 1000=M, 900=CM, 90=XC; resulting in MCMXC.
 
 Example:
 
-'''
-solution(1000); // should return "M"
-'''
+  solution(1000); // should return "M"
+
 
 Help:
 
-"""
-Symbol    Value
-I          1
-V          5
-X          10
-L          50
-C          100
-D          500
-M          1,000
-"""
+  Symbol    Value
+  I          1
+  V          5
+  X          10
+  L          50
+  C          100
+  D          500
+  M          1,000
 
 Remember that there can't be more than 3 identical symbols in a row.
 
