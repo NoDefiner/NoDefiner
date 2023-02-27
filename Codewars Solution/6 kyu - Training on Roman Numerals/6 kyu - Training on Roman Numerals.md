@@ -8,7 +8,7 @@ In Roman numerals 1990 is rendered: 1000=M, 900=CM, 90=XC; resulting in MCMXC.
 1666 uses each Roman symbol in descending order: MDCLXVI.
 
 Example:
-```
+```c++
 solution(1000); // should return "M"
 ```
 
