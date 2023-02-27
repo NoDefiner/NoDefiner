@@ -27,3 +27,11 @@ M          1,000
 Remember that there can't be more than 3 identical symbols in a row.
 
 More about roman numerals - http://en.wikipedia.org/wiki/Roman_numerals
+
+```
+Input       Result
+1000        M
+182         CLXXXII
+1990        MCMXC
+1875        MDCCCLXXV
+```
