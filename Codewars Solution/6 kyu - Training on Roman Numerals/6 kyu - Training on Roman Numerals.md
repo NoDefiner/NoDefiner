@@ -9,9 +9,9 @@ In Roman numerals 1990 is rendered: 1000=M, 900=CM, 90=XC; resulting in MCMXC.
 
 Example:
 
-"""
+'''
 solution(1000); // should return "M"
-"""
+'''
 
 Help:
 
