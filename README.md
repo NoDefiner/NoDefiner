@@ -1,4 +1,4 @@
-코딩 개못함
+응애 코딩 잘하고 싶어
 
 <!--
 **NoDefiner/NoDefiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
