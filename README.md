@@ -3,7 +3,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojoondo)](https://solved.ac/hojoondo/)
 
 ## Skills
----
 #### Computer Languages
    ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
    ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
